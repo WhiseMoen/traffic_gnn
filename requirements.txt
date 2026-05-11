@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+networkx>=3.0
+matplotlib>=3.5
+pandas>=1.4
+torch-geometric>=2.3
